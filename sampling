@@ -1,0 +1,16 @@
+import pandas as pd
+
+data=pd.read_csv('/Users/pcworld/Desktop/outlier_del.csv')
+
+rows = data.sample(frac=.25)
+
+# checking if sample is 0.25 times data or not
+
+if (0.25 * (len(data)) == len(rows)):
+    print("Cool")
+    print(len(data), len(rows))
+
+# display
+print(rows)
+
+rows.to_csv('/Users/pcworld/Desktop/sample_25.csv')

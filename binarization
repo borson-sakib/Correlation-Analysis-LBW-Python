@@ -1,0 +1,10 @@
+import pandas as pd
+
+
+data=pd.read_csv('/Users/pcworld/Desktop/normalized.csv')
+
+data["M18_1"] = (data["M18_1"] <= 3).astype(int)
+
+print(data.head())
+
+data.to_csv('/Users/pcworld/Desktop/binarized.csv')
