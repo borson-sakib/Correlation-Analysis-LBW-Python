@@ -3,3 +3,7 @@ Here are some scattered codes for Data Pre-processing and Correlation analysis o
 
 ## Attribute Distribution Graph
 ![Data Distribution](distribution.png)
+## Correlation Matrix
+![Corr](corr.png)
+## Pearson Correlation Score
+![Pearson](corr_score.png)
