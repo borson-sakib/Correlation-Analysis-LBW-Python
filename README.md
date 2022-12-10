@@ -10,6 +10,10 @@ According to a national survey in Bangladesh, a south Asian country, approximate
 <img alt="Data Distribution" src="https://github.com/borson-sakib/Correlation-Analysis-LBW-Python/blob/master/distribution.png" width="800" height="400">
 
 ## Correlation Matrix
-![Corr](corr.png)
+
+<img alt="Correlation" src="https://github.com/borson-sakib/Correlation-Analysis-LBW-Python/blob/master/corr.png" width="800" height="400">
+
 ## Pearson Correlation Score
-![Pearson](corr_score.png)
+
+<img alt="Pearson" src="https://github.com/borson-sakib/Correlation-Analysis-LBW-Python/blob/master/corr_score.png" width="800" height="400">
+
